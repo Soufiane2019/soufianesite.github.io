@@ -3,7 +3,7 @@ title: Eval Siteleaf Content Managers
 date: 2019-02-06 14:06:00 Z
 ---
 
-#**Super G**
+# # ** Super G**
 
 Le Français Johan Clarey a décroché mercredi une médaille d'argent mondiale dans le super-G d'Åre (Suède). Le Savoyard, 38 ans, n'a été devancé que de neuf centièmes de seconde par l'Italien Dominik Paris (29 ans), sacré pour la première fois de sa carrière. ?« J'étais très nerveux, j'ai dû attendre longtemps », a expliqué Paris, plus souvent récompensé en descente avec dix de ses douze victoires en Coupe du monde et une médaille d'argent mondiale en 2013, mais qui avait remporté le super-G de Bormio le 29 décembre dernier.
 # **Le classement du super-G**
