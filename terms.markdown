@@ -1,6 +1,7 @@
 ---
 title: Terms
 date: 2019-02-06 14:59:00 Z
+position: 2
 ---
 
 Condition or Warranty
