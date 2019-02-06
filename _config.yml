@@ -5,6 +5,9 @@ collections:
   authors:
     title: Authors
     output: true
+  gallery:
+    title: Gallery
+    output: true
   posts:
     title: Posts
     output: true
